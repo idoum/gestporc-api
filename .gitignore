@@ -1,0 +1,26 @@
+# Node.js modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Fichiers d'environnement
+.env
+
+# Dossiers temporaires
+tmp/
+temp/
+dist/
+
+# Cache d'IDE (ex : VSCode)
+.vscode/
+.idea/
+
+# Cache de test
+coverage/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
